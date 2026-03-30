@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Shivam Mishra
 *A passionate Full-Stack Devloper || Web3 Enthusiast*
 
-Email Me 👉 ✉ *usefullanalyst2062@gmail.com* For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉ *mshivam2062@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 *I’m currently learning:* MERN STACK
 - 💬 *Ask me about:* Tech Support
-- 📫 *How to reach me:* usefullanalyst2062@gmail.com
+- 📫 *How to reach me:* mshivam2062@gmail.com
 - 😄 *Pronouns:* Shivam Mishra
 - ⚡ *Fun fact:* I Love Tech and Tech Love Me
 
